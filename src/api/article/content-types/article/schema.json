@@ -75,6 +75,11 @@
         "preset": "defaultMarkdown"
       },
       "customField": "plugin::ckeditor5.CKEditor"
+    },
+    "seo": {
+      "type": "component",
+      "repeatable": true,
+      "component": "shared.seo"
     }
   }
 }
